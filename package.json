@@ -1,0 +1,11 @@
+
+{
+  "name": "sample-CICD",
+  "version": "1.0.0",
+  "description": "Node.js application for Jenkins CI/CD Kubernetes POC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
